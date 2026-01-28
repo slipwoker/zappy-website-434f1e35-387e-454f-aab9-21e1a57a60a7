@@ -1,6 +1,4 @@
-# נ.אור פרקטים — Generative Engine Optimization Map
-
-> A שיפוצים ובנייה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About נ.אור פרקטים
-נ.אור פרקטים is a business in the שיפוצים ובנייה industry.
-
-## Target Audience
-בעלי בתים ועסקים בכל רחבי ישראל
-
-## Industry
-שיפוצים ובנייה
-
+## About Business
 ---
 
 # Additional Resources
