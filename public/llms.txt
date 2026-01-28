@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# נ.אור פרקטים — Generative Engine Optimization Map
+
+> A שיפוצים ובנייה business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://n-or-practim.zappy5.app
 
 ### Services
-https://example.com/services
+https://n-or-practim.zappy5.app/services
 
 ### Projects
-https://example.com/projects
+https://n-or-practim.zappy5.app/projects
 
 ### Contact
-https://example.com/contact
+https://n-or-practim.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://n-or-practim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://n-or-practim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://n-or-practim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About נ.אור פרקטים
+נ.אור פרקטים is a business in the שיפוצים ובנייה industry.
+
+## Target Audience
+בעלי בתים ועסקים בכל רחבי ישראל
+
+## Industry
+שיפוצים ובנייה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://n-or-practim.zappy5.app/sitemap.xml
+- **Robots.txt**: https://n-or-practim.zappy5.app/robots.txt
